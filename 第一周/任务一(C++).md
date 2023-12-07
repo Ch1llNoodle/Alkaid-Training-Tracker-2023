@@ -241,3 +241,7 @@ Student Destrucyed!
 输入：out(var)
 输出：<undefined>
 ```
+
+### **要求**
+
+**将源文件压缩后发送到1036732248@qq.com，命名为“学院 + 姓名 + 学号”**
